@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Buy Me A Coffee](https://img.shields.io/badge/Donate-Ko--fi-F16061.svg)](https://ko-fi.com/joemarshall43271)
 <!--
 **jrm-code-project/jrm-code-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
