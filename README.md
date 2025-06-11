@@ -1,5 +1,5 @@
 ## Hi there 👋
-Here is a set of repositories that I have backed up to GitHub.  Some are well polished, some are works in progress, a few barely function.  The pinned repositories are the better ones.  Feel free to drop me a line.
+Here is a set of repositories that I have backed up to GitHub.  Some are well polished, some are works in progress, a few barely function.  The pinned repositories are the better ones.  Feel free to drop me a line.  
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Ko--fi-F16061.svg)](https://ko-fi.com/joemarshall43271)
 <!--
 **jrm-code-project/jrm-code-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
